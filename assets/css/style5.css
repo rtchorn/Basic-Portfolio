@@ -41,8 +41,9 @@ input[type=submit]:hover {
 }
 
 .aboutme { 
-	float: left;
-	width: 200px;
+	
+	
+    width: 200px;
 
 
 
@@ -51,7 +52,7 @@ input[type=submit]:hover {
 
 
 h1 {
-	font-family: sans-serif;
+	font-family: arial;
 
 }
 
